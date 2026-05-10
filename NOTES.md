@@ -22,3 +22,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update genre popularity and ROI profitability correlation
 - **Technical Summary**: Analyzed box-office return multiples across Sci-Fi, Drama, and Action genres.
 
+### Milestone Log - 2026-05-10 (14:50)
+- **Focus**: refactor: format runtime vs rating distribution density plots
+- **Technical Summary**: Visualized optimal movie duration clusters around 105 - 125 minutes.
+
