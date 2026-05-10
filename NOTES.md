@@ -18,3 +18,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: format runtime vs rating distribution density plots
 - **Technical Summary**: Visualized optimal movie duration clusters around 105 - 125 minutes.
 
+### Milestone Log - 2026-05-10 (10:35)
+- **Focus**: docs: update genre popularity and ROI profitability correlation
+- **Technical Summary**: Analyzed box-office return multiples across Sci-Fi, Drama, and Action genres.
+
